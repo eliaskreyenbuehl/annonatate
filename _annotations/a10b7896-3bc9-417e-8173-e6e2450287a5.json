@@ -1,0 +1,45 @@
+---
+canvas: "https://iiif.lib.harvard.edu/manifests/ids:53965144/canvas/canvas-53965144.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sign",
+            "purpose": "classifying",
+            "creator": {
+                "id": "eliaskreyenbuehl",
+                "name": "eliaskreyenbuehl"
+            },
+            "created": "2021-07-16T12:35:03.798Z",
+            "modified": "2021-07-16T12:35:12.996Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Initials",
+            "purpose": "tagging",
+            "creator": {
+                "id": "eliaskreyenbuehl",
+                "name": "eliaskreyenbuehl"
+            },
+            "created": "2021-07-16T12:35:23.724Z",
+            "modified": "2021-07-16T12:35:25.487Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/ids:53965144/canvas/canvas-53965144.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:4399.07568359375,426.80682373046875,957.216796875,1024.7847290039062"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://iiif.lib.harvard.edu/manifests/ids:53965144",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/a10b7896-3bc9-417e-8173-e6e2450287a5.json"
+}
