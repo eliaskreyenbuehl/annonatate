@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Kun Yu Map",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://eliaskreyenbuehl.github.io/annonatate/annotations/ids-53965144-canvas-53965144-json-list.json'></iiif-storyboard>",
+            "title": "Kun Yu sea monsters",
+            "description": "several sea monsters and animals found on the southern hemisphere",
+            "thumbnail": ""
+        }
+    ]
+}
