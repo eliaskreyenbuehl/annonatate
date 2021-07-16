@@ -1,0 +1,34 @@
+---
+canvas: "https://iiif.lib.harvard.edu/manifests/ids:53965144/canvas/canvas-53965144.json"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Animals",
+            "purpose": "tagging",
+            "creator": {
+                "id": "eliaskreyenbuehl",
+                "name": "eliaskreyenbuehl"
+            },
+            "created": "2021-07-16T12:36:14.237Z",
+            "modified": "2021-07-16T12:36:18.017Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/ids:53965144/canvas/canvas-53965144.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3520.688232421875,13715.2333984375,1565.331298828125,1182.4443359375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://iiif.lib.harvard.edu/manifests/ids:53965144",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/b6aea5a0-70ba-4db3-bc38-9975645d5852.json"
+}
