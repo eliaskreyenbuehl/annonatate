@@ -1,0 +1,35 @@
+---
+canvas: "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/canvas/bbb001216698-1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "J. MOEGL\u00c9 THUN",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "eliaskreyenbuehl",
+                "name": "eliaskreyenbuehl"
+            },
+            "created": "2022-03-31T20:17:51.325Z",
+            "modified": "2022-03-31T20:18:12.297Z"
+        }
+    ],
+    "target": {
+        "source": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/canvas/bbb001216698-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2264.23583984375,1941.96240234375,455.467529296875,85.1202392578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1e38cdfc-f547-474a-8181-aa87ae949c39.json",
+    "motivation": "commenting"
+}
