@@ -1,6 +1,3 @@
----
-layout: none
----
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "{{ '/' | absolute_url }}img/derivatives/iiif/bbb001216698/manifest.json",
