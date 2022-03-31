@@ -1,0 +1,35 @@
+---
+canvas: "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/canvas/bbb001216698-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "269 LES BAINS DU GURNIGEL MUSIKHALLE",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "eliaskreyenbuehl",
+                "name": "eliaskreyenbuehl"
+            },
+            "created": "2022-03-31T20:14:33.752Z",
+            "modified": "2022-03-31T20:15:07.318Z"
+        }
+    ],
+    "target": {
+        "source": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/canvas/bbb001216698-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=72.78858947753906,1930.6737060546875,1702.404769897461,100.053466796875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "43430ef6-d297-4de8-8d80-02ace4bbc20f.json",
+    "motivation": "commenting"
+}
