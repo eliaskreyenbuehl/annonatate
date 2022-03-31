@@ -14,6 +14,10 @@
           "rights"
         ]
       },
+       {
+    "label": "Holding Institution",
+    "value": "Burgerbibliothek Bern"
+        },
       "value": {
         "de": [
           "CC-BY Burgerbibliothek Bern"
