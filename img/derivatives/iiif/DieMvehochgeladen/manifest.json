@@ -1,0 +1,82 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/DieMvehochgeladen/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Die Möve hochgeladen"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "PD"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Die Möve auf der Mauer"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/DieMvehochgeladen/canvas/DieMvehochgeladen-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "1957505-maximum"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/DieMvehochgeladen/1957505maximum/full/141,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3697,
+      "width": 4518,
+      "items": [
+        {
+          "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/DieMvehochgeladen/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/DieMvehochgeladen/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/DieMvehochgeladen/1957505maximum/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3697,
+                "width": 4518,
+                "service": [
+                  {
+                    "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/DieMvehochgeladen/1957505maximum",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/DieMvehochgeladen/canvas/DieMvehochgeladen-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
