@@ -1,0 +1,34 @@
+---
+canvas: "https://www.e-manuscripta.ch/i3f/v20/1957504/canvas/1957505"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Schipfe",
+            "purpose": "commenting",
+            "creator": {
+                "id": "eliaskreyenbuehl",
+                "name": "eliaskreyenbuehl"
+            },
+            "created": "2023-03-07T13:05:33.839Z",
+            "modified": "2023-03-07T13:05:35.556Z"
+        }
+    ],
+    "target": {
+        "source": "https://www.e-manuscripta.ch/i3f/v20/1957504/canvas/1957505",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2170.42626953125,1091.1285400390625 2149.88720703125,1738.1036376953125 2669.77783203125,1732.96875 2656.941162109375,1129.638916015625 2642.820556640625,1127.0716552734375\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://www.e-manuscripta.ch/i3f/v20/1957504/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3c7f078c-bf25-4c6e-bba4-928a2ee8ebfc.json",
+    "motivation": "commenting"
+}
