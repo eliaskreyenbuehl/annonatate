@@ -1,0 +1,34 @@
+---
+canvas: "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/canvas/bbb001216698-1"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Window",
+            "purpose": "describing",
+            "creator": {
+                "id": "eliaskreyenbuehl",
+                "name": "eliaskreyenbuehl"
+            },
+            "created": "2023-03-07T11:16:06.281Z",
+            "modified": "2023-03-07T11:16:12.745Z"
+        }
+    ],
+    "target": {
+        "source": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/canvas/bbb001216698-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"1450.968505859375\" cy=\"511.8323516845703\" rx=\"199.9462890625\" ry=\"27.770309448242188\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "029a6ccf-2d57-441e-a513-d240bdb4fea0.json",
+    "motivation": "commenting"
+}
