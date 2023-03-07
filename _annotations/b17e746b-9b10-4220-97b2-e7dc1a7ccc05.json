@@ -1,0 +1,37 @@
+---
+canvas: "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/canvas/bbb001216698-1"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Orchestra",
+            "purpose": "commenting",
+            "creator": {
+                "id": "eliaskreyenbuehl",
+                "name": "eliaskreyenbuehl"
+            },
+            "created": "2023-03-07T11:16:44.303Z",
+            "modified": "2023-03-07T11:16:45.735Z"
+        }
+    ],
+    "target": {
+        "source": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/canvas/bbb001216698-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1221.4005126953125,956.774658203125 1686.707763671875,958.0089111328125 1686.0693615205946,1198.6833651971313 1220.762110544032,1197.4491122674438\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://eliaskreyenbuehl.github.io/annonatate/img/derivatives/iiif/bbb001216698/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b17e746b-9b10-4220-97b2-e7dc1a7ccc05.json",
+    "motivation": "commenting"
+}
